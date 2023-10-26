@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    line-height: 1.4;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+code {
+    background-color: gray;
+    font-family: Consolas, monospace;
+    padding: 2px 4px;
+}
+P {
+    color: white;
+}
